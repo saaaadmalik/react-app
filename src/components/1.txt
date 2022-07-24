@@ -1,0 +1,2 @@
+each file in components folder shuld have name starting with capiital letter i.e.
+Header.js . and in each component, function should have same name as file name.
