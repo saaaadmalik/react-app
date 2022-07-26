@@ -19,7 +19,7 @@ const Card = ({prod}) => {
       <Link to= {`/product/${prod.id}`}>
         <div class="card" >
               <img src={p1} class="card-img-top" alt="..." />
-              <div class="card-body" id='Card'>
+              <div class="card-body">
                 <h5 class="card-title">{prod.title}</h5>
                 <p class="card-text">{prod.description}</p>
                 <a href="#" class="btn btn-primary">Price: {prod.price}</a>
