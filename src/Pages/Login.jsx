@@ -68,4 +68,4 @@ export default Login
 
 //in react we use states to store data . we don;t store them in the variables like we do in vanilla js
 //whenever an event occurs then that event handler i.e. onSubmit, onChange etc, throws an object and we can receive that object as an argument in our function as we did here
-//our first target in handling the form is to grab the input(value) user enters in the field
+//our first target in handling the form is to grab the input(value)that user enters in the field
